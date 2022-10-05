@@ -1,7 +1,7 @@
 
 ### Olá, eu sou Daniel Vieira ✌️
 <p>  Estou em constante aprimoramento técnico, sempre disposto a novos Desafios.</p>
-<p>  Gosto da tecnologia, para poder pensar em soluções inovadora
+<p>  Gosto da tecnologia, para poder pensar em soluções inovadoras
 <p> Atualmente estou estudnado Desenvolvimento Full Stack </p>
 
  <div style="display: inline_block"><br/>
