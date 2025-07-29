@@ -2,7 +2,7 @@
 ### Olá, eu sou Daniel Vieira ✌️
 <p>  Estou em constante aprimoramento técnico, sempre disposto a novos Desafios.</p>
 <p>  Gosto da tecnologia, para poder pensar em soluções inovadoras
-<p> Atualmente estou estudnado Desenvolvimento web Full Stack </p>
+<p> Atualmente estou estudando Desenvolvimento web Full Stack </p>
 
  <div style="display: inline_block"><br/>
  <a href="https://www.linkedin.com/in/daniel-vieiradev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
